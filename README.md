@@ -14,6 +14,8 @@ The bot also adds a streaming role if one exists, to any user who has the "STREA
 
 ## Running
 
+Create an environment variable `DISCORD_BOT_TOKEN` with the bot token.
+
 ```
 npm i
 npm start
